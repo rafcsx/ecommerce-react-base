@@ -43,9 +43,13 @@ O projeto tem a seguinte estrutura de diretórios:
 As seguintes dependências estão utilizadas no projeto (veja o arquivo `package.json` para mais detalhes):
 
 - **React**: 🌐 Biblioteca principal para construção de interfaces de usuário.
+- 
 - **Redux**: 📦 Gerenciamento de estado da aplicação.
+- 
 - **React Router**: 🚀 Para gerenciar a navegação entre páginas.
+- 
 - **Axios**: 🌈 Para realizar requisições HTTP.
+- 
 - **Outras dependências**: (inclua qualquer outra dependência que você tenha adicionado, como estilos ou utilitários).
 
 ---
@@ -55,38 +59,51 @@ As seguintes dependências estão utilizadas no projeto (veja o arquivo `package
 ### 1. Clonando o Repositório:
 
 ``bash
+
 git clone https://github.com/seu-usuario/meu-ecommerce.git
+
 cd meu-ecommerce
 
 2. Instalando Dependências:
+3. 
 Certifique-se de que você tem o Node.js instalado. Caso não tenha, você pode baixá-lo em nodejs.org. 🌍
 
 Instale as dependências do projeto com o seguinte comando:
 
 ``bash
+
 npm install
 
 3. Executando o Projeto:
+4. 
 Após a instalação das dependências, inicie o servidor de desenvolvimento:
 
 ``bash
+
 npm start
+
 O aplicativo estará disponível em http://localhost:3000 no seu navegador. 🌐
 
-🙌 Contribuições
+🙌 Contribuições:
+
 Sinta-se à vontade para contribuir com o projeto! Crie um fork do repositório, faça suas alterações e envie um pull request. 💖
 
-📄 Licença
+📄 Licença:
+
 Especifique a licença do seu projeto aqui, se aplicável (ex: MIT, GPL, etc.). ⚖️
 
-📫 Contato
+📫 Contato:
+
 Para mais informações, entre em contato:
 
 Seu Nome: Rafael Correia 👤
+
 Seu E-mail: rafcs.x@gmail.com 📧
+
 Sinta-se à vontade para personalizar ainda mais a documentação conforme necessário! Isso dará um toque mais acolhedor e amigável ao seu projeto. 😊
 
 ``perl
+
 ### Dicas para Usar no GitHub
 
 1. **Criar um Arquivo README.md**: Salve esse conteúdo como `README.md` na raiz do seu projeto. O GitHub automaticamente exibe esse arquivo quando você visita o repositório.
