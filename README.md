@@ -61,6 +61,6 @@
     📫 Contato
     Para mais informações, entre em contato:
     
-        Seu Nome: Rafael Correia 👤
-        Seu E-mail: rafcs.x@gmail.com 📧
+        Rafael Correia 👤
+        rafcs.x@gmail.com 📧
 
