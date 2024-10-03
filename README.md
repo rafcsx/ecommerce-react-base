@@ -8,11 +8,17 @@ Bem-vindo ao Meu E-commerce! Aqui você encontrará informações sobre a estrut
 
 O projeto tem a seguinte estrutura de diretórios:
 ├── node_modules/           # 🛠️ Dependências do projeto
+
 ├── public/                 # 📄 Arquivos públicos
+
 ├── src/                    # 🖥️ Código fonte da aplicação
+
 │   ├── assets/             # 📸 Recursos estáticos
+
 │   ├── components/         # 🔧 Componentes reutilizáveis
+
 │   ├── router/             # 📍 Configuração das rotas
+
 │   ├── store/              # 🏬 Gerenciamento de estado
 │   ├── views/              # 👁️ Componentes de visualização
 │   ├── App.js              # 🌟 Componente principal
