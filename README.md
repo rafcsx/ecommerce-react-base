@@ -32,9 +32,7 @@
         React: 🌐 Biblioteca principal para construção de interfaces de usuário.
         Redux: 📦 Gerenciamento de estado da aplicação.
         React Router: 🚀 Para gerenciar a navegação entre páginas.
-        Axios: 🌈 Para realizar requisições HTTP.
-        Outras dependências: (inclua qualquer outra dependência que você tenha adicionado, como estilos ou utilitários).
-    
+        Axios: 🌈 Para realizar requisições HTTP.    
 
     🚀 Instruções para Clonagem e Execução do Projeto
     1. Clonando o Repositório:
