@@ -53,9 +53,6 @@
     🙌 Contribuições
     Sinta-se à vontade para contribuir com o projeto! Crie um fork do repositório, faça suas alterações e envie um pull request. 💖
 
-    📄 Licença
-    Especifique a licença do seu projeto aqui, se aplicável (ex: MIT, GPL, etc.). ⚖️
-
     📫 Contato
     Para mais informações, entre em contato:
     
