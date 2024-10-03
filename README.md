@@ -20,12 +20,19 @@ O projeto tem a seguinte estrutura de diretórios:
 │   ├── router/             # 📍 Configuração das rotas
 
 │   ├── store/              # 🏬 Gerenciamento de estado
+
 │   ├── views/              # 👁️ Componentes de visualização
+
 │   ├── App.js              # 🌟 Componente principal
+
 │   └── index.js            # 📍 Ponto de entrada
+
 ├── .gitignore               # 🚫 Arquivos a serem ignorados
+
 ├── package-lock.json       # 🔒 Versões das dependências
+
 ├── package.json            # 📜 Dependências
+
 └── README.md               # 📖 Documentação
 
 ---
