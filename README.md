@@ -4,7 +4,7 @@ Bem-vindo ao Meu E-commerce! Aqui você encontrará informações sobre a estrut
 
 ---
 
-## 🗂️ Estrutura de Diretórios
+# 🗂️ Estrutura de Diretórios
 
 O projeto tem a seguinte estrutura de diretórios:
 ├── node_modules/           # 🛠️ Dependências do projeto
@@ -24,7 +24,7 @@ O projeto tem a seguinte estrutura de diretórios:
 
 
 
-## 📚 Dependências
+# 📚 Dependências
 
 As seguintes dependências estão utilizadas no projeto (veja o arquivo package.json para mais detalhes):
 
@@ -34,14 +34,14 @@ As seguintes dependências estão utilizadas no projeto (veja o arquivo package.
 - **Axios**: 🌈 Para realizar requisições HTTP.
 - **Outras dependências**: (inclua qualquer outra dependência que você tenha adicionado, como estilos ou utilitários).
 
-- ## 🚀 Instruções para Clonagem e Execução do Projeto
+- # 🚀 Instruções para Clonagem e Execução do Projeto
 
-### 1. Clonando o Repositório:
+# 1. Clonando o Repositório:
 bash
 git clone https://github.com/seu-usuario/meu-ecommerce.git
 cd meu-ecommerce
 
-### 2. Instalando Dependências:
+# 2. Instalando Dependências:
 Certifique-se de que você tem o Node.js instalado. Caso não tenha, você pode baixá-lo em nodejs.org. 🌍
 
 Instale as dependências do projeto com o seguinte comando:
@@ -58,10 +58,10 @@ Copiar código
 npm start
 O aplicativo estará disponível em http://localhost:3000 no seu navegador. 🌐
 
-### 🙌 Contribuições
+# 🙌 Contribuições
 Sinta-se à vontade para contribuir com o projeto! Crie um fork do repositório, faça suas alterações e envie um pull request. 💖
 
-### 📄 Licença
+# 📄 Licença
 Especifique a licença do seu projeto aqui, se aplicável (ex: MIT, GPL, etc.). ⚖️
 
 ### 📫 Contato
