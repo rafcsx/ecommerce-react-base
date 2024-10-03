@@ -20,8 +20,6 @@ O projeto tem a seguinte estrutura de diretórios:
 ├── .gitignore               # 🚫 Arquivos a serem ignorados
 ├── package-lock.json       # 🔒 Versões das dependências
 ├── package.json            # 📜 Dependências
-└── README.md               # 📖 Documentação
-
 
 
 # 📚 Dependências
