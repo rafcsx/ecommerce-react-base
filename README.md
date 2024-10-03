@@ -6,10 +6,10 @@
 </head>
 <body>
     <h1>📦 Documentação do Projeto de E-commerce</h1>
-    <p>Bem-vindo ao Meu E-commerce! Aqui você encontrará informações sobre a estrutura do projeto, dependências e como rodá-lo localmente. Vamos começar! 🚀</p>
+    Bem-vindo ao Meu E-commerce! Aqui você encontrará informações sobre a estrutura do projeto, dependências e como rodá-lo localmente. Vamos começar! 🚀
 
-    <h2>🗂️ Estrutura de Diretórios</h2>
-    <pre>
+    🗂️ Estrutura de Diretórios
+    
     meu-ecommerce/
     ├── node_modules/           # 🛠️ Dependências do projeto
     ├── public/                 # 📄 Arquivos públicos
@@ -25,44 +25,42 @@
     ├── package-lock.json       # 🔒 Versões das dependências
     ├── package.json            # 📜 Dependências
     └── README.md               # 📖 Documentação
-    </pre>
+    
 
-    <h2>📚 Dependências</h2>
-    <ul>
-        <li><strong>React</strong>: 🌐 Biblioteca principal para construção de interfaces de usuário.</li>
-        <li><strong>Redux</strong>: 📦 Gerenciamento de estado da aplicação.</li>
-        <li><strong>React Router</strong>: 🚀 Para gerenciar a navegação entre páginas.</li>
-        <li><strong>Axios</strong>: 🌈 Para realizar requisições HTTP.</li>
-        <li><strong>Outras dependências</strong>: (inclua qualquer outra dependência que você tenha adicionado, como estilos ou utilitários).</li>
-    </ul>
+    📚 Dependências
+    
+        React: 🌐 Biblioteca principal para construção de interfaces de usuário.
+        Redux: 📦 Gerenciamento de estado da aplicação.
+        React Router: 🚀 Para gerenciar a navegação entre páginas.
+        Axios: 🌈 Para realizar requisições HTTP.
+        Outras dependências: (inclua qualquer outra dependência que você tenha adicionado, como estilos ou utilitários).
+    
 
-    <h2>🚀 Instruções para Clonagem e Execução do Projeto</h2>
-    <h3>1. Clonando o Repositório:</h3>
-    <pre>
+    🚀 Instruções para Clonagem e Execução do Projeto
+    1. Clonando o Repositório:
+    
     git clone https://github.com/seu-usuario/meu-ecommerce.git
     cd meu-ecommerce
-    </pre>
+    
 
-    <h3>2. Instalando Dependências:</h3>
-    <p>Certifique-se de que você tem o <strong>Node.js</strong> instalado. Caso não tenha, você pode baixá-lo em <a href="https://nodejs.org">nodejs.org</a>. 🌍</p>
-    <pre>npm install</pre>
+    2. Instalando Dependências:
+    Certifique-se de que você tem o Node.js instalado. Caso não tenha, você pode baixá-lo em https://nodejs.org 🌍
+    npm install
 
-    <h3>3. Executando o Projeto:</h3>
-    <p>Após a instalação das dependências, inicie o servidor de desenvolvimento:</p>
-    <pre>npm start</pre>
-    <p>O aplicativo estará disponível em <strong>http://localhost:3000</strong> no seu navegador. 🌐</p>
+    3. Executando o Projeto:
+    Após a instalação das dependências, inicie o servidor de desenvolvimento:
+    npm start
+    O aplicativo estará disponível em http://localhost:3000 no seu navegador. 🌐
 
-    <h2>🙌 Contribuições</h2>
-    <p>Sinta-se à vontade para contribuir com o projeto! Crie um fork do repositório, faça suas alterações e envie um pull request. 💖</p>
+    🙌 Contribuições
+    Sinta-se à vontade para contribuir com o projeto! Crie um fork do repositório, faça suas alterações e envie um pull request. 💖
 
-    <h2>📄 Licença</h2>
-    <p>Especifique a licença do seu projeto aqui, se aplicável (ex: MIT, GPL, etc.). ⚖️</p>
+    📄 Licença
+    Especifique a licença do seu projeto aqui, se aplicável (ex: MIT, GPL, etc.). ⚖️
 
-    <h2>📫 Contato</h2>
-    <p>Para mais informações, entre em contato:</p>
-    <ul>
-        <li><strong>Seu Nome</strong>: Rafael Correia 👤</li>
-        <li><strong>Seu E-mail</strong>: rafcs.x@gmail.com 📧</li>
-    </ul>
-</body>
-</html>
+    📫 Contato
+    Para mais informações, entre em contato:
+    
+        Seu Nome: Rafael Correia 👤
+        Seu E-mail: rafcs.x@gmail.com 📧
+
