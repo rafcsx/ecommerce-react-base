@@ -7,6 +7,7 @@ Bem-vindo ao Meu E-commerce! Aqui você encontrará informações sobre a estrut
 ## 🗂️ Estrutura de Diretórios
 
 O projeto tem a seguinte estrutura de diretórios:
+
 ├── node_modules/           # 🛠️ Dependências do projeto
 
 ├── public/                 # 📄 Arquivos públicos
