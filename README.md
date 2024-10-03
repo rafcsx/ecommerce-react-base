@@ -8,8 +8,8 @@
     <h1>📦 Documentação do Projeto de E-commerce</h1>
     <p>Bem-vindo ao Meu E-commerce! Aqui você encontrará informações sobre a estrutura do projeto, dependências e como rodá-lo localmente. Vamos começar! 🚀</p>
 
-    🗂️ Estrutura de Diretórios<
-   
+    <h2>🗂️ Estrutura de Diretórios</h2>
+    <pre>
     meu-ecommerce/
     ├── node_modules/           # 🛠️ Dependências do projeto
     ├── public/                 # 📄 Arquivos públicos
@@ -25,14 +25,16 @@
     ├── package-lock.json       # 🔒 Versões das dependências
     ├── package.json            # 📜 Dependências
     └── README.md               # 📖 Documentação
-    
+    </pre>
 
-📚 Dependências
-React: 🌐 Biblioteca principal para construção de interfaces de usuário.
-Redux: 📦 Gerenciamento de estado da aplicação.
-React Router: 🚀 Para gerenciar a navegação entre páginas.
-Axios: 🌈 Para realizar requisições HTTP.
-Outras dependências: (inclua qualquer outra dependência que você tenha adicionado, como estilos ou utilitários).
+    <h2>📚 Dependências</h2>
+    <ul>
+        <li><strong>React</strong>: 🌐 Biblioteca principal para construção de interfaces de usuário.</li>
+        <li><strong>Redux</strong>: 📦 Gerenciamento de estado da aplicação.</li>
+        <li><strong>React Router</strong>: 🚀 Para gerenciar a navegação entre páginas.</li>
+        <li><strong>Axios</strong>: 🌈 Para realizar requisições HTTP.</li>
+        <li><strong>Outras dependências</strong>: (inclua qualquer outra dependência que você tenha adicionado, como estilos ou utilitários).</li>
+    </ul>
 
     <h2>🚀 Instruções para Clonagem e Execução do Projeto</h2>
     <h3>1. Clonando o Repositório:</h3>
